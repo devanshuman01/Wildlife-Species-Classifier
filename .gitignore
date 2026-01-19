@@ -1,0 +1,32 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# --- Jupyter Notebooks (Crucial) ---
+# Blocks the auto-save folders that clutter your repo
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Data & Models (IMPORTANT) ---
+# Never upload your raw dataset images to GitHub (too large)
+data/
+datasets/
+images/
+*.zip
+*.tar.gz
+*.h5
+*.keras
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Settings ---
+.vscode/
+.idea/
