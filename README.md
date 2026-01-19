@@ -29,7 +29,7 @@ The model consists of a custom head attached to the frozen MobileNetV2 base:
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/devanshuman01/Wildlife-Species-Classifier
+    git clone https://github.com/devanshuman01/Wildlife-Species-Classifier.git
     ```
 2.  **Open the Notebook:**
     Upload `Wildlife_Species_Classifier_CNN.ipynb` to [Google Colab](https://colab.research.google.com/).
